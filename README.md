@@ -1,11 +1,11 @@
 # OpenMIIR Representation Learning Experiment 2016
 
 This experiment using the public domain [OpenMIIR dataset](https://github.com/sstober/openmiir) has been descibed in the paper
-[Sebastian Stober. Learning Discriminative Features from Electroencephalography Recordings by Encoding Similarity Constraints. In: Proceedings of 42nd IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP'17), 2017.](http://bib.sebastianstober.de/icassp2017.pdf). 
+[Sebastian Stober: *Learning Discriminative Features from Electroencephalography Recordings by Encoding Similarity Constraints.* In: Proceedings of 42nd IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP'17), 2017.](http://bib.sebastianstober.de/icassp2017.pdf)
 
 Please cite this paper if you use any of this code!
 
-Note that this is a revised and extended version of an experiment originally described in [Sebastian Stober; Avital Sternin; Adrian M. Owen & Jessica A. Grahn. Deep Feature Learning for EEG Recordings. In: arXiv preprint arXiv:1511.04306 2015.](http://arxiv.org/abs/1511.04306).
+Note that this is a revised and extended version of an experiment originally described in [Sebastian Stober; Avital Sternin; Adrian M. Owen & Jessica A. Grahn: *Deep Feature Learning for EEG Recordings.* In: arXiv preprint arXiv:1511.04306 2015.](http://arxiv.org/abs/1511.04306)
 
 
 ## Code Dependencies
@@ -40,10 +40,10 @@ This research was supported by the donation of a Geforce GTX Titan X graphics ca
 
 ## Contact
 
-Sebastian Stober \<sstober AT uni-potsdam DOT de\> 
-Research Focus Cognitive Sciences
-Machine Learning in Cognitive Science Lab
-University of Potsdam
-Potsdam, Germany
+Sebastian Stober \<sstober AT uni-potsdam DOT de\>  
+Research Focus Cognitive Sciences  
+Machine Learning in Cognitive Science Lab  
+University of Potsdam  
+Potsdam, Germany  
   
 [http://www.uni-potsdam.de/mlcog/](http://www.uni-potsdam.de/mlcog/)  
